@@ -1,5 +1,5 @@
 # edge Detection from scratch  
-![img](https://raw.githubusercontent.com/yihui-he/yihui-he-Edge-detection-with-zero-crossing/master/lena_1.bmp)  
+![img](lena_1.bmp)  
 **Note:**  
 1. I performed a threshold enhancement on this algorithm, maybe the results is a little bit different from they should be.(less noises, but some lines are disjointed)  
 2. put images with scripts in the same folder
